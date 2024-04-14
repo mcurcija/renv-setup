@@ -7,5 +7,5 @@ library(ggdist)
 
 # print status
 renv::status()
-
-demo(colors)
+# demo 
+# demo(colors)
